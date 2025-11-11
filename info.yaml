@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "ScienceTest      # Project title
+  title:        "ScienceTest"      # Project title
   author:       "Champignon"      # Your name
   discord:      "ccthtank"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Pipe cleaner"      # One line description of what your project does
