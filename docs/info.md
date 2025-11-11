@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It's a test that right now doesn't have a purpose (Name is not permanent)
 
 ## How to test
 
-Explain how to use your project
+If it doesn't explode, smoke or anything alike, it works
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
