@@ -1,10 +1,10 @@
 /*
- * Copyright (c) 2024 Your Name
+ * Copyright (c) 2024 Carl Meding
  *
  * SPDX-License-Identifier: Apache-2.0
  */
 
-module tt_um_Champignon_ScienceTest (
+module tt_um_ccmed_morse_translator (
     input  wire [7:0] ui_in,    // Dedicated inputs
     output wire [7:0] uo_out,   // Dedicated outputs
     input  wire [7:0] uio_in,   // IOs: Input path
