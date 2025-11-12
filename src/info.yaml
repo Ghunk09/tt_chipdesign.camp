@@ -1,0 +1,16 @@
+# Tiny Tapeout project information
+project:
+  wokwi_id:    0
+  source_files:
+    - project.v
+    - seven_segment.v
+  top_module:  "tt_um_ccmed_morse_translator"
+
+# As this is a demonstration project, we need to set the author to be "Tiny Tapeout"
+# and the license to be "Apache-2.0"
+author: "Tiny Tapeout"
+license: "Apache-2.0"
+
+# The Tiny Tapeout GDS action requires a GDS layout file.
+# For this demonstration project, we will use a dummy GDS file.
+gds: "dummy.gds"
