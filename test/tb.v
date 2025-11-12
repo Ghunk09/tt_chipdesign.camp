@@ -28,7 +28,7 @@ module tb ();
 `endif
 
   // Replace tt_um_example with your module name:
-  tt_um_Champignon_ScienceTest user_project (
+  tt_um_ccmed_morse_translator user_project (
 
       // Include power ports for the Gate Level test:
 `ifdef GL_TEST
